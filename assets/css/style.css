@@ -85,10 +85,6 @@ section{
 
 .flex-row{
     display: flex;
-    padding-bottom: 20px;
-    text-align: center;
-    margin: 0 auto 35px auto;
-    width: 50%;
 }
 
 .hero{
@@ -161,10 +157,8 @@ section{
 .section-title{
     font-size: 48px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    display: inline-block;
+
 }
 
 
@@ -279,11 +273,14 @@ section{
     font-size: 55px;
     border-bottom: 3px solid;
     color: #024e76;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
 }
 
 .contact{
     background: #024e76;
-  
 }
 
 .contact h2{
